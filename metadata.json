@@ -1,0 +1,7 @@
+{
+  "name": "AI Voice Suite",
+  "description": "A versatile web application that provides multilingual Text-to-Speech (TTS) and Speech-to-Text (STT) functionalities using browser-native APIs. Convert text into natural-sounding speech and transcribe spoken words into text with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
